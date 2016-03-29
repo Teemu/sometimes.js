@@ -1,0 +1,19 @@
+{
+  "name": "sometimes",
+  "version": "0.0.1",
+  "description": "Sometimes it returns true, sometimes false",
+  "main": "sometimes.js",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frozenball/sometimes.git"
+  },
+  "author": "Teemu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frozenball/sometimes/issues"
+  },
+  "homepage": "https://github.com/Frozenball/sometimes#readme"
+}
